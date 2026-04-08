@@ -4,13 +4,13 @@ import LoginForm from './componentes/Login';
 import { useState } from 'react';
 
 function App() {
-	const nombre = 'Carlos';
+	const nombre = 'Anahi Palacios';
 
 	const amigos = [
-		{ nombre: 'Carlos', telefono: '123-456-678' },
-		{ nombre: 'Alex', telefono: '123-456-678' },
-		{ nombre: 'Cesar', telefono: '123-456-678' },
-		{ nombre: 'Manuel', telefono: '123-456-678' },
+		{ nombre: 'Carlos Alcaraz', telefono: '123-456-678' },
+		{ nombre: 'Jannik Sinner', telefono: '123-456-678' },
+		{ nombre: 'Iga Swiatek', telefono: '123-456-678' },
+		{ nombre: 'Arina Sabalenka', telefono: '123-456-678' },
 	];
 
 	const famosos = [
